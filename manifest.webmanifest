@@ -4,7 +4,7 @@
   "theme_color": "#1976d2",
   "background_color": "#000",
   "display": "standalone",
-  "scope": "https://ewertonbello.github.io/CalculadoraMartingale/",
+  "scope": "/",
   "start_url": "https://ewertonbello.github.io/CalculadoraMartingale/",
   "icons": [
     {
