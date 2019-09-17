@@ -1,11 +1,11 @@
 {
-  "name": "Martingale",
-  "short_name": "Calculadora Martingale",
-  "theme_color": "#1976d2",
+  "name": "Calculadora Martingale",
+  "short_name": "Martingale",
+  "theme_color": "#000000",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "https://ewertonbello.github.io/CalculadoraMartingale/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
